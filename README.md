@@ -13,4 +13,7 @@ This is the typing mode preview
   ![image](https://github.com/player1-Z/markdown-css/blob/master/pdf%20view.jpg)  
 This is the pdf file preview  
   
-  Thanks! Enjoy your writing!
+  Thanks! Enjoy your writing!  
+****  
+I update the line-height of titles. Now it looks much better!  
+20:29 7/1/2019
