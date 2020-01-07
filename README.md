@@ -17,13 +17,13 @@ This is the pdf file preview
 ****  
 
 I update the line-height of titles. Now it looks much better!  
-ps. To make it clear, in order to have 12pt font-size, you'll have to insert the following code into your file.  
+ps. To make it clear, in order to have 12pt font-size, you'll have to insert the following code into your file (not the css file but the one you're working on!).  
 ```ios
 <font size=3.5> 
 your writing 
 </font>
 ```
-Similarly, if you want to have <strong>pure</strong> black font-color (for the original design isn't!), you'll have to insert the following code.
+Similarly, if you want to have <strong>pure</strong> black font-color (for the original design isn't!), you'll have to insert the following code into the thing that you're writing.
 ```ios
 <font color=#000000> 
 your writing 
