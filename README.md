@@ -7,7 +7,7 @@ The pdf file will appear to have the format of 12pt font-size, 1.5em line-height
  ![image](https://github.com/player1-Z/markdown-css/blob/master/coding%20mode%20view.jpg)  
 This is the coding mode preview  
   
-  ![image](https://github.com/player1-Z/markdown-css/blob/master/typying%20mode%20view.jpg)  
+  ![image](https://github.com/player1-Z/markdown-css/blob/master/typing%20mode%20view.jpg)  
 This is the typing mode preview  
   
   ![image](https://github.com/player1-Z/markdown-css/blob/master/pdf%20view.jpg)  
