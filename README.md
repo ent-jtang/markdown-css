@@ -1,7 +1,7 @@
 # markdown-css 
 It contains a template for writing in markdown and outputting the file as a pdf in an <strong>academic writing style</strong>.  
 It is an evolved version of the original academic template offered by typora https://theme.typora.io/theme/Academic.  
-It also combines the code by Leaf Hsiao https://github.com/leaf-hsiao/catfish.  
+It also combines the code by Leaf Hsiao https://git.io/Jve42.  
 The pdf file will appear to have the format of 12pt font-size, 1.5em line-height, and Times New Roman font-family.  
    
  ![image](https://github.com/player1-Z/markdown-css/blob/master/coding%20mode%20preview.jpg)  
