@@ -29,5 +29,5 @@ Similarly, if you want to have <strong>pure</strong> black font-color (for the o
 your writing 
 </font>
 ```
-You can find more about markdown syntax (in Chinese) here: https://git.io/Jve4u 
+You can find more about markdown syntax (in Chinese) here: https://git.io/Jve4u   
 Have fun!   
